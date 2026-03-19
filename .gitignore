@@ -1,0 +1,93 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Data & Results
+# ========================
+dataset/
+results/
+tmp/
+artifacts/
+
+# ========================
+# GEPA output / optimizer logs
+# ========================
+**/gepa_output/
+**/gepa_logs*/
+
+# ========================
+# OS generated files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ========================
+# Environment & Secrets
+# ========================
+.env
+.env.*
+!.env.example
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+
+# ========================
+# Finetune outputs and caches
+# ========================
+packages/finetune/data/
+packages/finetune/cache/
+packages/finetune/outputs/
+packages/finetune/.venv/
+*.safetensors
+*.pt
+wandb/
+runs/
+
+# ========================
+# Misc
+# ========================
+*.bak
+*.tmp
+*.cache
+.cache/
+.oss_manifest/
+*.ps1
+.claude

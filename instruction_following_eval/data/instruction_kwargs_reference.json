@@ -1,0 +1,1723 @@
+{
+  "change_case:capital_word_frequency": [
+    {
+      "capital_relation": "less than",
+      "capital_frequency": 10
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 1
+    },
+    {
+      "capital_relation": "less than",
+      "capital_frequency": 11
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 3
+    },
+    {
+      "capital_relation": "less than",
+      "capital_frequency": 4
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 5
+    },
+    {
+      "capital_relation": "less than",
+      "capital_frequency": 20
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 10
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 16
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 15
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 2
+    },
+    {
+      "capital_relation": "less than",
+      "capital_frequency": 5
+    },
+    {
+      "capital_relation": "at least",
+      "capital_frequency": 20
+    }
+  ],
+  "change_case:english_capital": [
+    {}
+  ],
+  "change_case:english_lowercase": [
+    {}
+  ],
+  "combination:repeat_prompt": [
+    {
+      "prompt_to_repeat": "Write an email to my boss telling him that I am quitting. The email must contain a title wrapped in double angular brackets, i.e. <<title>>."
+    },
+    {
+      "prompt_to_repeat": "Write a short startup pitch for a new kind of ice cream called \"Sunnis ice cream\". The ice cream should be gentle on the stomach. Contain 6 or more exclamation marks \"!\" in your response."
+    },
+    {
+      "prompt_to_repeat": "Write a funny haiku about moms, containing keywords \"mom\" and \"mother\" in your response."
+    },
+    {
+      "prompt_to_repeat": "Write a limerick about Hannah, a college student, doing an internship at a coffee company. Make sure that her father would love the limerick. Include the words \"intern\" and \"grow\"."
+    },
+    {
+      "prompt_to_repeat": "Write a blog post about the most interesting things you have seen or ridden on public transportation."
+    },
+    {
+      "prompt_to_repeat": "I am a software engineer with 7 years of experience, and I am looking for a new job. Can you create a resume for me and explain each section?"
+    },
+    {
+      "prompt_to_repeat": "Write an acoustic song about the Korean peninsula without using any commas."
+    },
+    {
+      "prompt_to_repeat": "Name a new fashion company that young people might like, and give it a name with multiple meanings. Put the name in double angular brackets, such as <<name>>."
+    },
+    {
+      "prompt_to_repeat": "Write a story about a man who is trying to get his life together. Put the name of the story in double angular brackets, i.e. <<story of xyz>>."
+    },
+    {
+      "prompt_to_repeat": "Write a plot for a story about two people who swap fingerprints. Include a title wrapped in double angular brackets, i.e. <<title>>. In your response please avoid using commas."
+    },
+    {
+      "prompt_to_repeat": "Generate two alternative product descriptions: The product is a new type of paper that can be used to wrap food, and is edible."
+    },
+    {
+      "prompt_to_repeat": "Hello. I need to give a lecture to my students about the movie La La Land. Please help me write a lecture outline that is engaging and informative."
+    },
+    {
+      "prompt_to_repeat": "Write an angry tweet about a friend who is always late to events or appointments."
+    },
+    {
+      "prompt_to_repeat": "What has a dome but no doors, what has a vault but no money, what has walls but no rooms? What am I? Try to be funny and give me a funny answer."
+    },
+    {
+      "prompt_to_repeat": "Write a resume for a junior hardware engineer. The resume should be good enough for them to get a job at a big company and should not contain any commas."
+    },
+    {
+      "prompt_to_repeat": "Titan makes clothing for large men. Write an advertisement for the company that would appeal to a wide audience. Make sentences short. Your response should not contain any comma."
+    },
+    {
+      "prompt_to_repeat": "Could you give me a short summary of The Lord of the Rings that is child-friendly?"
+    },
+    {
+      "prompt_to_repeat": "When giving a class/lecture to students, rewrite \"You should use a different font.\" in a passive aggressive tone."
+    },
+    {
+      "prompt_to_repeat": "Write a good name for a black dog. Your answer must contain a title, wrapped in double angular brackets."
+    },
+    {
+      "prompt_to_repeat": "Write an advertisement for a new product or service that is related to the words \"safeguard\" and \"flees\". In your entire response mark sure you do not use any commas."
+    },
+    {
+      "prompt_to_repeat": "Wherefore doth people consider the 2nd Amendment to be outdated? Answer in a Shakespearean style."
+    },
+    {
+      "prompt_to_repeat": "Write a song about a corgi named Chester who loves to play fetch."
+    },
+    {
+      "prompt_to_repeat": "A new time zone is UTC+00:05:28, which is 5 minutes and 28 seconds ahead of UTC. Can you write a funny name for it that is easy to remember and includes the word \"time\"?"
+    },
+    {
+      "prompt_to_repeat": "Rewrite the following sentence in a style that is unusual: \"But when the people of the land came to know that the Philistines had fled, they departed from Saul and went after David.\""
+    },
+    {
+      "prompt_to_repeat": "Write a summary of the plot of \"The Great Gatsby\" in the style of a tabloid newspaper."
+    },
+    {
+      "prompt_to_repeat": "We are a company that sells a product that makes it easy to find and book a hotel room. We are looking for a print ad that will be placed in a magazine that is aimed at people who travel a lot. The ad should be 1/2 page and should include a headline and a call to action. Please do not use any commas in your response."
+    },
+    {
+      "prompt_to_repeat": "Write a limerick about the word \"limerick\". Make sure it is funny and includes the words \"limerick\" and \"funny\". Do not use any commas."
+    },
+    {
+      "prompt_to_repeat": "Is ballistics (the study of the motion of projectiles) an actual science?"
+    },
+    {
+      "prompt_to_repeat": "Write a 500 word story in a poem style about a young girl who is obsessed with her Nintendo DS."
+    },
+    {
+      "prompt_to_repeat": "Write an interesting riddle that uses math notation."
+    },
+    {
+      "prompt_to_repeat": "Suggest two names for a new type of tonic. Include the keyword \"brand\" each time, followed by suggested name in double angular brackets, such as <<American Tonic>>."
+    },
+    {
+      "prompt_to_repeat": "Write an essay about how the current economic crisis is affecting the environment. In your essay, include the keywords: \"climate\", \"energy\", and \"green\". Make sure your entire response is in Hindi, no other language is allowed."
+    },
+    {
+      "prompt_to_repeat": "TLDR the article \"How to dress like a football manager: waistcoats and the style lessons from the Premier League\". Your entire response (including the repeated request) should have 45 or less words."
+    },
+    {
+      "prompt_to_repeat": "Write a limerick about a customer who is always right. The word \"right\" should appear less than 2 times in the response."
+    },
+    {
+      "prompt_to_repeat": "Is the following true? \"People use time to buy money.\" Explain your answer in a way that makes it easy for kids to understand. Include the word \"farmer\". Exclude the words \"economy\", \"demand\" and \"supply\"."
+    },
+    {
+      "prompt_to_repeat": "Write a pitch deck for a startup that aims to make a new social network that focuses on the board game society."
+    },
+    {
+      "prompt_to_repeat": "Write a pros and cons list of apple products in the style of a 19th century novelist and do not use any commas."
+    },
+    {
+      "prompt_to_repeat": "What is the name of the actor who played Gandalf in Lord of the Rings?"
+    },
+    {
+      "prompt_to_repeat": "Write a review of \"Laureates and twins\" for professionals in the field of psychology without the use of commas and make sure to include the phrase \"well worth watching\"."
+    },
+    {
+      "prompt_to_repeat": "Create a resume for a military officer who served in Iraq and was later hired by a private military contractor. Make sure to include a title that is wrapped in double angular brackets, i.e. <<resume of xyz>>. Refrain from using any commas in your response."
+    },
+    {
+      "prompt_to_repeat": "Rewrite the following sentence in a more formal way: \"Them youngins be always on that damn phone\". Imagine you are the president of the United States. Avoid using the word \"youngins\" and \"damn\" throughout your entire response."
+    }
+  ],
+  "combination:two_responses": [
+    {}
+  ],
+  "detectable_content:number_placeholders": [
+    {
+      "num_placeholders": 12
+    },
+    {
+      "num_placeholders": 7
+    },
+    {
+      "num_placeholders": 20
+    },
+    {
+      "num_placeholders": 6
+    },
+    {
+      "num_placeholders": 8
+    },
+    {
+      "num_placeholders": 10
+    },
+    {
+      "num_placeholders": 1
+    },
+    {
+      "num_placeholders": 3
+    },
+    {
+      "num_placeholders": 2
+    },
+    {
+      "num_placeholders": 15
+    },
+    {
+      "num_placeholders": 5
+    }
+  ],
+  "detectable_content:postscript": [
+    {
+      "postscript_marker": "P.S."
+    },
+    {
+      "postscript_marker": "P.P.S"
+    }
+  ],
+  "detectable_format:constrained_response": [
+    {}
+  ],
+  "detectable_format:json_format": [
+    {}
+  ],
+  "detectable_format:multiple_sections": [
+    {
+      "section_spliter": "PARAGRAPH",
+      "num_sections": 2
+    },
+    {
+      "section_spliter": "SECTION",
+      "num_sections": 4
+    },
+    {
+      "section_spliter": "Section",
+      "num_sections": 4
+    },
+    {
+      "section_spliter": "SECTION",
+      "num_sections": 2
+    },
+    {
+      "section_spliter": "Section",
+      "num_sections": 5
+    },
+    {
+      "section_spliter": "Section",
+      "num_sections": 2
+    },
+    {
+      "section_spliter": "SECTION",
+      "num_sections": 3
+    },
+    {
+      "section_spliter": "Day",
+      "num_sections": 7
+    },
+    {
+      "section_spliter": "Audience",
+      "num_sections": 2
+    }
+  ],
+  "detectable_format:number_bullet_lists": [
+    {
+      "num_bullets": 3
+    },
+    {
+      "num_bullets": 6
+    },
+    {
+      "num_bullets": 10
+    },
+    {
+      "num_bullets": 8
+    },
+    {
+      "num_bullets": 9
+    },
+    {
+      "num_bullets": 2
+    },
+    {
+      "num_bullets": 4
+    },
+    {
+      "num_bullets": 1
+    }
+  ],
+  "detectable_format:number_highlighted_sections": [
+    {
+      "num_highlights": 3
+    },
+    {
+      "num_highlights": 2
+    },
+    {
+      "num_highlights": 15
+    },
+    {
+      "num_highlights": 6
+    },
+    {
+      "num_highlights": 5
+    },
+    {
+      "num_highlights": 1
+    },
+    {
+      "num_highlights": 10
+    },
+    {
+      "num_highlights": 8
+    }
+  ],
+  "detectable_format:title": [
+    {}
+  ],
+  "keywords:existence": [
+    {
+      "keywords": [
+        "correlated",
+        "experiencing"
+      ]
+    },
+    {
+      "keywords": [
+        "mom",
+        "mother"
+      ]
+    },
+    {
+      "keywords": [
+        "Argentinian"
+      ]
+    },
+    {
+      "keywords": [
+        "waste",
+        "material",
+        "meal"
+      ]
+    },
+    {
+      "keywords": [
+        "intern",
+        "grow"
+      ]
+    },
+    {
+      "keywords": [
+        "brilliant",
+        "le",
+        "hou"
+      ]
+    },
+    {
+      "keywords": [
+        "vulnerable"
+      ]
+    },
+    {
+      "keywords": [
+        "sarah"
+      ]
+    },
+    {
+      "keywords": [
+        "cat"
+      ]
+    },
+    {
+      "keywords": [
+        "forests",
+        "riddle"
+      ]
+    },
+    {
+      "keywords": [
+        "netflix"
+      ]
+    },
+    {
+      "keywords": [
+        "atlantis",
+        "constable"
+      ]
+    },
+    {
+      "keywords": [
+        "land",
+        "river"
+      ]
+    },
+    {
+      "keywords": [
+        "python",
+        "java"
+      ]
+    },
+    {
+      "keywords": [
+        "disgusting",
+        "delicious",
+        "bad",
+        "good"
+      ]
+    },
+    {
+      "keywords": [
+        "lacking",
+        "model",
+        "performance",
+        "quality",
+        "architecture"
+      ]
+    },
+    {
+      "keywords": [
+        "calculate",
+        "file",
+        "conclusion"
+      ]
+    },
+    {
+      "keywords": [
+        "rate",
+        "rte"
+      ]
+    },
+    {
+      "keywords": [
+        "talented",
+        "tianjin"
+      ]
+    },
+    {
+      "keywords": [
+        "ink",
+        "memoirs"
+      ]
+    },
+    {
+      "keywords": [
+        "gao",
+        "hearts"
+      ]
+    },
+    {
+      "keywords": [
+        "finale",
+        "less"
+      ]
+    },
+    {
+      "keywords": [
+        "medalist",
+        "theta"
+      ]
+    },
+    {
+      "keywords": [
+        "friends",
+        "hanson"
+      ]
+    },
+    {
+      "keywords": [
+        "zelda",
+        "hyrule",
+        "link",
+        "ganon"
+      ]
+    },
+    {
+      "keywords": [
+        "engages",
+        "lightly"
+      ]
+    },
+    {
+      "keywords": [
+        "adoption",
+        "carriage"
+      ]
+    },
+    {
+      "keywords": [
+        "trust",
+        "brand",
+        "customer",
+        "law",
+        "policy",
+        "unusable"
+      ]
+    },
+    {
+      "keywords": [
+        "climate",
+        "energy",
+        "green"
+      ]
+    },
+    {
+      "keywords": [
+        "indicator",
+        "management"
+      ]
+    },
+    {
+      "keywords": [
+        "dammit"
+      ]
+    },
+    {
+      "keywords": [
+        "farmer"
+      ]
+    },
+    {
+      "keywords": [
+        "afternoon",
+        "distressed"
+      ]
+    },
+    {
+      "keywords": [
+        "people",
+        "skills"
+      ]
+    },
+    {
+      "keywords": [
+        "remainder"
+      ]
+    },
+    {
+      "keywords": [
+        "bill",
+        "economist",
+        "jurgen"
+      ]
+    },
+    {
+      "keywords": [
+        "compensated",
+        "immigrants"
+      ]
+    },
+    {
+      "keywords": [
+        "festival",
+        "river"
+      ]
+    },
+    {
+      "keywords": [
+        "dog",
+        "day"
+      ]
+    }
+  ],
+  "keywords:forbidden_words": [
+    {
+      "forbidden_words": [
+        "rock"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "nourriture"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "field",
+        "thanks",
+        "issue",
+        "collaborator"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "nickname"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "sleep",
+        "cook",
+        "feed"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "dupage",
+        "dade"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "coop",
+        "killings",
+        "dead",
+        "night"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "taylor",
+        "swift",
+        "together"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "name",
+        "rename"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "can",
+        "ride"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "station"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "heute"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "moser",
+        "glassworks",
+        "pravcice",
+        "karlovy",
+        "vary"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "bad",
+        "underperform"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "enzymes",
+        "antibodies"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "rich",
+        "money"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "die"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "reschedule",
+        "free"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "ours",
+        "have"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "startup",
+        "capsule"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "flea",
+        "json"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "died",
+        "drowned"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "sad",
+        "crazy",
+        "stress"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "schlau"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "BC",
+        "culture",
+        "prehistoric"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "revolution",
+        "tax"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "yo",
+        "peace",
+        "check"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "parody"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "nursery",
+        "storytelling"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "slow",
+        "like",
+        "kid"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "story",
+        "killer",
+        "dead",
+        "found",
+        "law",
+        "room",
+        "kill",
+        "result",
+        "use",
+        "approach",
+        "people",
+        "president"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "bark",
+        "run"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "steps",
+        "step"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "university"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "education"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "kill",
+        "slaughter",
+        "occupy",
+        "invasion"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "mileage",
+        "fuel"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "economy",
+        "demand",
+        "supply"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "divide",
+        "answer"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "icefrog",
+        "blizzard",
+        "lawsuit"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "computer",
+        "science"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "name",
+        "song",
+        "person",
+        "man",
+        "woman"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "proposal",
+        "project"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "jock"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "beauty",
+        "pretty"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "perfume",
+        "fresh",
+        "good"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "key"
+      ]
+    },
+    {
+      "forbidden_words": [
+        "youngins",
+        "damn"
+      ]
+    }
+  ],
+  "keywords:frequency": [
+    {
+      "relation": "at least",
+      "keyword": "story",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "war",
+      "frequency": 8
+    },
+    {
+      "relation": "at least",
+      "keyword": "peace",
+      "frequency": 10
+    },
+    {
+      "relation": "at least",
+      "keyword": "sneaker",
+      "frequency": 10
+    },
+    {
+      "relation": "at least",
+      "keyword": "skyscraper",
+      "frequency": 8
+    },
+    {
+      "relation": "at least",
+      "keyword": "schedule",
+      "frequency": 6
+    },
+    {
+      "relation": "less than",
+      "keyword": "photography",
+      "frequency": 1
+    },
+    {
+      "relation": "less than",
+      "keyword": "sarah",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "synonyms",
+      "frequency": 3
+    },
+    {
+      "relation": "at least",
+      "keyword": "knock",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "associations",
+      "frequency": 4
+    },
+    {
+      "relation": "at least",
+      "keyword": "forest",
+      "frequency": 3
+    },
+    {
+      "relation": "at least",
+      "keyword": "disappointed",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "replied",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "grid",
+      "frequency": 5
+    },
+    {
+      "relation": "less than",
+      "keyword": "flesh",
+      "frequency": 3
+    },
+    {
+      "relation": "at least",
+      "keyword": "dose",
+      "frequency": 5
+    },
+    {
+      "relation": "at least",
+      "keyword": "predatory",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "climatic",
+      "frequency": 2
+    },
+    {
+      "relation": "less than",
+      "keyword": "batted",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "clearly",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "humming",
+      "frequency": 1
+    },
+    {
+      "relation": "less than",
+      "keyword": "founding",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "comprised",
+      "frequency": 1
+    },
+    {
+      "relation": "at least",
+      "keyword": "singles",
+      "frequency": 2
+    },
+    {
+      "relation": "less than",
+      "keyword": "the",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "fiesta",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "might",
+      "frequency": 6
+    },
+    {
+      "relation": "less than",
+      "keyword": "hughes",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "para",
+      "frequency": 1
+    },
+    {
+      "relation": "at least",
+      "keyword": "elephant",
+      "frequency": 3
+    },
+    {
+      "relation": "at least",
+      "keyword": "cousins",
+      "frequency": 3
+    },
+    {
+      "relation": "less than",
+      "keyword": "future",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "brand",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "fake",
+      "frequency": 6
+    },
+    {
+      "relation": "less than",
+      "keyword": "fake",
+      "frequency": 8
+    },
+    {
+      "relation": "at least",
+      "keyword": "robber",
+      "frequency": 2
+    },
+    {
+      "relation": "less than",
+      "keyword": "right",
+      "frequency": 2
+    },
+    {
+      "relation": "at least",
+      "keyword": "unfortunately",
+      "frequency": 3
+    },
+    {
+      "relation": "less than",
+      "keyword": "unfortunately",
+      "frequency": 6
+    },
+    {
+      "relation": "at least",
+      "keyword": "bombs",
+      "frequency": 1
+    },
+    {
+      "relation": "at least",
+      "keyword": "knot",
+      "frequency": 2
+    }
+  ],
+  "keywords:letter_frequency": [
+    {
+      "let_relation": "at least",
+      "letter": "#",
+      "let_frequency": 4
+    },
+    {
+      "let_relation": "at least",
+      "letter": "!",
+      "let_frequency": 6
+    },
+    {
+      "let_relation": "less than",
+      "letter": "t",
+      "let_frequency": 2
+    },
+    {
+      "let_relation": "less than",
+      "letter": "o",
+      "let_frequency": 6
+    },
+    {
+      "let_relation": "less than",
+      "letter": "c",
+      "let_frequency": 1
+    },
+    {
+      "let_relation": "at least",
+      "letter": "o",
+      "let_frequency": 40
+    },
+    {
+      "let_relation": "at least",
+      "letter": "p",
+      "let_frequency": 15
+    },
+    {
+      "let_relation": "at least",
+      "letter": "l",
+      "let_frequency": 15
+    },
+    {
+      "let_relation": "at least",
+      "letter": "c",
+      "let_frequency": 60
+    },
+    {
+      "let_relation": "less than",
+      "letter": "e",
+      "let_frequency": 1
+    },
+    {
+      "let_relation": "less than",
+      "letter": "p",
+      "let_frequency": 1
+    },
+    {
+      "let_relation": "less than",
+      "letter": "i",
+      "let_frequency": 3
+    },
+    {
+      "let_relation": "at least",
+      "letter": "l",
+      "let_frequency": 6
+    },
+    {
+      "let_relation": "at least",
+      "letter": "y",
+      "let_frequency": 5
+    },
+    {
+      "let_relation": "at least",
+      "letter": "q",
+      "let_frequency": 4
+    },
+    {
+      "let_relation": "less than",
+      "letter": "i",
+      "let_frequency": 6
+    },
+    {
+      "let_relation": "at least",
+      "letter": "c",
+      "let_frequency": 5
+    },
+    {
+      "let_relation": "less than",
+      "letter": "w",
+      "let_frequency": 2
+    },
+    {
+      "let_relation": "at least",
+      "letter": "q",
+      "let_frequency": 1
+    },
+    {
+      "let_relation": "less than",
+      "letter": "n",
+      "let_frequency": 7
+    },
+    {
+      "let_relation": "at least",
+      "letter": "o",
+      "let_frequency": 25
+    },
+    {
+      "let_relation": "at least",
+      "letter": "j",
+      "let_frequency": 1
+    },
+    {
+      "let_relation": "at least",
+      "letter": "q",
+      "let_frequency": 5
+    },
+    {
+      "let_relation": "less than",
+      "letter": "q",
+      "let_frequency": 5
+    },
+    {
+      "let_relation": "at least",
+      "letter": "n",
+      "let_frequency": 3
+    },
+    {
+      "let_relation": "at least",
+      "letter": "g",
+      "let_frequency": 8
+    },
+    {
+      "let_relation": "at least",
+      "letter": "m",
+      "let_frequency": 5
+    },
+    {
+      "let_relation": "at least",
+      "letter": "t",
+      "let_frequency": 30
+    },
+    {
+      "let_relation": "at least",
+      "letter": "n",
+      "let_frequency": 4
+    },
+    {
+      "let_relation": "at least",
+      "letter": "e",
+      "let_frequency": 50
+    },
+    {
+      "let_relation": "at least",
+      "letter": "q",
+      "let_frequency": 6
+    },
+    {
+      "let_relation": "less than",
+      "letter": "a",
+      "let_frequency": 2
+    },
+    {
+      "let_relation": "at least",
+      "letter": "j",
+      "let_frequency": 20
+    }
+  ],
+  "language:response_language": [
+    {
+      "language": "kn"
+    },
+    {
+      "language": "pa"
+    },
+    {
+      "language": "mr"
+    },
+    {
+      "language": "fa"
+    },
+    {
+      "language": "vi"
+    },
+    {
+      "language": "ko"
+    },
+    {
+      "language": "sw"
+    },
+    {
+      "language": "ru"
+    },
+    {
+      "language": "hi"
+    },
+    {
+      "language": "bg"
+    },
+    {
+      "language": "pt"
+    },
+    {
+      "language": "gu"
+    },
+    {
+      "language": "te"
+    },
+    {
+      "language": "it"
+    },
+    {
+      "language": "ar"
+    },
+    {
+      "language": "ta"
+    },
+    {
+      "language": "de"
+    },
+    {
+      "language": "fi"
+    },
+    {
+      "language": "ur"
+    },
+    {
+      "language": "th"
+    },
+    {
+      "language": "ne"
+    },
+    {
+      "language": "bn"
+    }
+  ],
+  "length_constraints:nth_paragraph_first_word": [
+    {
+      "first_word": "weekend",
+      "num_paragraphs": 4,
+      "nth_paragraph": 1
+    },
+    {
+      "first_word": "president",
+      "num_paragraphs": 6,
+      "nth_paragraph": 2
+    },
+    {
+      "first_word": "summary",
+      "num_paragraphs": 7,
+      "nth_paragraph": 7
+    },
+    {
+      "first_word": "realising",
+      "num_paragraphs": 2,
+      "nth_paragraph": 1
+    },
+    {
+      "first_word": "elm",
+      "num_paragraphs": 4,
+      "nth_paragraph": 4
+    },
+    {
+      "first_word": "punched",
+      "num_paragraphs": 3,
+      "nth_paragraph": 1
+    },
+    {
+      "first_word": "bonding",
+      "num_paragraphs": 3,
+      "nth_paragraph": 3
+    },
+    {
+      "first_word": "send",
+      "num_paragraphs": 3,
+      "nth_paragraph": 1
+    },
+    {
+      "first_word": "booster",
+      "num_paragraphs": 2,
+      "nth_paragraph": 1
+    },
+    {
+      "first_word": "firms",
+      "num_paragraphs": 4,
+      "nth_paragraph": 1
+    },
+    {
+      "first_word": "jasper",
+      "num_paragraphs": 3,
+      "nth_paragraph": 2
+    },
+    {
+      "first_word": "it",
+      "num_paragraphs": 4,
+      "nth_paragraph": 2
+    }
+  ],
+  "length_constraints:number_paragraphs": [
+    {
+      "num_paragraphs": 2
+    },
+    {
+      "num_paragraphs": 3
+    },
+    {
+      "num_paragraphs": 4
+    },
+    {
+      "num_paragraphs": 5
+    },
+    {
+      "num_paragraphs": 6
+    }
+  ],
+  "length_constraints:number_sentences": [
+    {
+      "relation": "less than",
+      "num_sentences": 6
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 5
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 31
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 10
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 31
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 30
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 3
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 10
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 50
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 40
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 20
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 26
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 60
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 20
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 5
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 3
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 7
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 17
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 16
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 17
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 25
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 4
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 4
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 61
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 13
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 8
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 100
+    },
+    {
+      "relation": "less than",
+      "num_sentences": 2
+    },
+    {
+      "relation": "at least",
+      "num_sentences": 1
+    }
+  ],
+  "length_constraints:number_words": [
+    {
+      "relation": "at least",
+      "num_words": 300
+    },
+    {
+      "relation": "at least",
+      "num_words": 500
+    },
+    {
+      "relation": "at least",
+      "num_words": 400
+    },
+    {
+      "relation": "less than",
+      "num_words": 300
+    },
+    {
+      "relation": "at least",
+      "num_words": 800
+    },
+    {
+      "relation": "less than",
+      "num_words": 151
+    },
+    {
+      "relation": "at least",
+      "num_words": 350
+    },
+    {
+      "relation": "at least",
+      "num_words": 600
+    },
+    {
+      "relation": "at least",
+      "num_words": 250
+    },
+    {
+      "relation": "less than",
+      "num_words": 100
+    },
+    {
+      "relation": "at least",
+      "num_words": 900
+    },
+    {
+      "relation": "less than",
+      "num_words": 101
+    },
+    {
+      "relation": "at least",
+      "num_words": 801
+    },
+    {
+      "relation": "less than",
+      "num_words": 31
+    },
+    {
+      "relation": "less than",
+      "num_words": 600
+    },
+    {
+      "relation": "less than",
+      "num_words": 201
+    },
+    {
+      "relation": "less than",
+      "num_words": 701
+    },
+    {
+      "relation": "at least",
+      "num_words": 100
+    },
+    {
+      "relation": "less than",
+      "num_words": 121
+    },
+    {
+      "relation": "less than",
+      "num_words": 150
+    },
+    {
+      "relation": "at least",
+      "num_words": 200
+    },
+    {
+      "relation": "at least",
+      "num_words": 164
+    },
+    {
+      "relation": "less than",
+      "num_words": 50
+    },
+    {
+      "relation": "at least",
+      "num_words": 150
+    },
+    {
+      "relation": "less than",
+      "num_words": 46
+    },
+    {
+      "relation": "at least",
+      "num_words": 336
+    },
+    {
+      "relation": "less than",
+      "num_words": 30
+    },
+    {
+      "relation": "less than",
+      "num_words": 200
+    },
+    {
+      "relation": "at least",
+      "num_words": 1200
+    },
+    {
+      "relation": "less than",
+      "num_words": 20
+    },
+    {
+      "relation": "less than",
+      "num_words": 40
+    }
+  ],
+  "punctuation:no_comma": [
+    {}
+  ],
+  "startend:end_checker": [
+    {
+      "end_phrase": "Can I get my money back for the classes I missed?"
+    },
+    {
+      "end_phrase": "Is there anything else I can help with?"
+    },
+    {
+      "end_phrase": "You cannot fail with the steps listed above."
+    },
+    {
+      "end_phrase": "Hope you agree with me."
+    },
+    {
+      "end_phrase": "Peace!"
+    },
+    {
+      "end_phrase": "Follow the 5 steps listed above, and you will be successful."
+    },
+    {
+      "end_phrase": "Which one you choose?"
+    },
+    {
+      "end_phrase": "Let me know how it works. I can give you next steps when you finish all steps above."
+    },
+    {
+      "end_phrase": "your love, and thanks."
+    },
+    {
+      "end_phrase": "Let me know if you have additional questions."
+    },
+    {
+      "end_phrase": "Yes Mom, I am Dave."
+    },
+    {
+      "end_phrase": "What would happen to human next?"
+    },
+    {
+      "end_phrase": "That is all you need!"
+    },
+    {
+      "end_phrase": "in India."
+    },
+    {
+      "end_phrase": "Does this make sense?"
+    },
+    {
+      "end_phrase": "Call me at 631-481-4867"
+    },
+    {
+      "end_phrase": "Naomi thanks you for reading."
+    },
+    {
+      "end_phrase": "So what is next?"
+    }
+  ],
+  "startend:quotation": [
+    {}
+  ]
+}
