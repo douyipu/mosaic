@@ -6,10 +6,10 @@ from openai import AsyncOpenAI
 
 # Configuration
 # You can set these via environment variables or rely on the defaults provided
-DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', 'sk-1475478d79c441dba470681da863f5d0')
+DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 
-OPENROUTER_API_KEY = os.environ.get('OPENROUTER_API_KEY', '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')
+OPENROUTER_API_KEY = os.environ.get('OPENROUTER_API_KEY', '')
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
