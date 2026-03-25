@@ -118,10 +118,13 @@ mosaic/
 If you use this repository, cite the MOSAIC paper:
 
 ```bibtex
-@article{dou2026mosaic,
-  title   = {MOSAIC: Multi-Objective Slice-Aware Iterative Curation for Alignment},
-  author  = {Dou, Yipu and Yang, Wang},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026}
+@misc{dou2026mosaicmultiobjectivesliceawareiterative,
+      title={MOSAIC: Multi-Objective Slice-Aware Iterative Curation for Alignment}, 
+      author={Yipu Dou and Wang Yang},
+      year={2026},
+      eprint={2603.18637},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2603.18637}, 
 }
 ```
